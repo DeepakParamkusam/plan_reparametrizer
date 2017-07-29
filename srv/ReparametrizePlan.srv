@@ -1,0 +1,3 @@
+trajectory_msgs/JointTrajectory old_traj
+---
+trajectory_msgs/JointTrajectory new_traj
